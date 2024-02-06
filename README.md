@@ -21,4 +21,5 @@ Using a fabricated dataset containing information about Coffee Sales, I created 
 ## Dashboard Preview
 To interact with the dashboard, please open the ***coffeeOrdersProject.xlsx*** file
 
-![Screenshot 2024-02-05 183906](https://github.com/erickburci/CoffeeOrders/assets/159087967/f35a27da-bec8-4e9d-b7d5-1530ed659948)
+![Screenshot 2024-02-06 150304](https://github.com/erickburci/CoffeeOrders/assets/159087967/127abf0d-4dbe-4bfb-b4c4-bd141d443e59)
+
